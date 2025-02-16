@@ -99,7 +99,9 @@ It includes a command-line shell and an associated scripting language.
 
 * [Dotenv](https://github.com/insomnimus/ps-dotenv) - Provides directory specific environments through .env files, similar to direnv.
 * [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
+* [PoshSvn](https://www.poshsvn.com/) - Apache Subversion client for PowerShell.
 * [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
+* [PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for common cli tools like git, npm and more.
 * [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 * [Jump-Location](https://github.com/tkellogg/Jump-Location) - PowerShell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for PowerShell. **`UNMAINTAINED`**
 * [Zlocation](https://github.com/vors/ZLocation) * [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
@@ -188,6 +190,7 @@ It includes a command-line shell and an associated scripting language.
 ## Podcasts
 
 * [PowerScripting](https://powershell.org/category/podcast/) - Weekly show run by Jon Walz and Hal Rottenberg.
+* [The PowerShell Podcast](https://powershellpodcast.podbean.com/) - Weekly show that highlights what makes PowerShell so great, the community.
 * [The PowerShell News Podcast](https://powershellnews.podbean.com/) - This podcast is the latest news on PowerShell.
 
 ## Security
@@ -239,7 +242,7 @@ It includes a command-line shell and an associated scripting language.
 * [AnyBox](https://github.com/dm3ll3n/AnyBox) - Designed to facilitate script input/output with an easily customizable WPF window.
 * [BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 * [Graphical](https://github.com/PrateekKumarSingh/graphical) - Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
-* [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs! - built on Avalonia and gui.cs.
+* [ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) - Microsoft.PowerShell.ConsoleGuiTools contains the Out-ConsoleGridView and Show-ObjectTree TUI cmdlets for viewing and filtering objects in the terminal user interface.
 * [PS-Menu](https://github.com/chrisseroka/ps-menu) - Simple module to render interactive console menu.
 * [PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 * [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - Module to show file and folder icons in the terminal.
@@ -285,3 +288,4 @@ It includes a command-line shell and an associated scripting language.
 * [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
 * [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 * [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
+* [Explore PowerShell](https://kandi.openweaver.com/explore/powershell) - Discover & find a curated list of popular & new PowerShell libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
