@@ -299,7 +299,7 @@ https://github.com/ironmansoftware/powershell-pro-tools
 * [Pode](https://github.com/Badgerati/Pode) - Pode is a Cross-Platform PowerShell framework for creating web servers to host REST APIs, Web Sites, and TCP/SMTP Servers.
 * [Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell.
 * [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
-* [Universal Dashboard](https://ironmansoftware.com/powershell-universal-dashboard) - Cross-platform module for developing websites and REST APIs.
+* [Powershell Universal](https://www.powershelluniversal.com/) - Cross-platform module for developing websites and REST APIs.
 </details>
 
 <details>
