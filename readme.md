@@ -1,42 +1,16 @@
 # Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![QualityAssurance](https://github.com/janikvonrotz/awesome-powershell/workflows/Awesome%20PowerShell%20Daily%20Markdown%20Link%20Verification/badge.svg)](https://github.com/janikvonrotz/awesome-powershell/actions/workflows/markdownLinkDaily.yml)
 
-[<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
+[<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" alt="Powershell logo" align="right" style="margin:10px 20px 0px 10px " width="100" height="100">](https://msdn.microsoft.com/en-us/powershell/)
 
-A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resources.
-
-PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
+> [!NOTE]
+> A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resources.
+>
+>PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
 It includes a command-line shell and an associated scripting language.
 
-## Contents
-
-* [API Wrapper](#api-wrapper)
-* [Blogs](#blogs)
-* [Books](#books)
-* [Build Tools](#build-tools)
-* [Code and Package Repositories](#code-and-package-repositories)
-* [Commandline Productivity](#commandline-productivity)
-* [Communities](#communities)
-* [Data](#data)
-* [Documentation Helper](#documentation-helper)
-* [Editors and IDEs](#editors-and-ides)
-* [Frameworks](#frameworks)
-* [Interactive Learning](#interactive-learning)
-* [Logging](#logging)
-* [Module Development Templates](#module-development-templates)
-* [Package Managers](#package-managers)
-* [Parallel Processing](#parallel-processing)
-* [Podcasts](#podcasts)
-* [Security](#security)
-* [SharePoint](#sharepoint)
-* [SQL Server](#sql-server)
-* [Testing](#testing)
-* [Themes](#themes)
-* [UI](#ui)
-* [Videos](#videos)
-* [Webserver](#webserver)
-* [Misc](#misc)
-
-## API Wrapper
+## Contents (unfoldable)
+<details>
+  <summary>API Wrappers</summary>
 
 * [HipChatAdmin](https://github.com/cofonseca/HipChatAdmin) - A module for simple integration with Atlassian HipChat via the HipChat API.
 * [PSGitHub](https://github.com/pcgeek86/PSGitHub) - Module contains commands to manage GitHub through its REST API.
@@ -50,8 +24,10 @@ It includes a command-line shell and an associated scripting language.
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs
 * [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
 * [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
+</details>
 
-## Blogs
+<details>
+  <summary>Blogs</summary>
 
 * [Windows PowerShell Blog](https://devblogs.microsoft.com/powershell/) - Official PowerShell Team Blog.
 * [Learn PowerShell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
@@ -62,8 +38,10 @@ It includes a command-line shell and an associated scripting language.
 * [Adam the Automator](https://adamtheautomator.com/) - Engaging, technical content on all things automation, cloud computing and DevOps by Adam Bertram and friends.
 * [Clear-Script](https://vexx32.github.io/) - Personal blog of Joel (Sallow) Francis.
 * [OCram85.com](https://ocram85.com) - Personal blog about PowerShell and automation in general.
+</details>
 
-## Books
+<details>
+  <summary>Books</summary>
 
 * [Exploring PowerShell Automation](https://www.manning.com/books/exploring-powershell-automation) - a free eBook sampler that gives you an overview of how to administer your environment.
 * [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth) - The go-to reference for administrators. Every major shell technique, technology, and tactic is explained and demonstrated, providing a comprehensive reference to almost everything an admin would do in the shell.
@@ -82,8 +60,10 @@ It includes a command-line shell and an associated scripting language.
 * [Practical Automation with PowerShell](https://www.manning.com/books/practical-automation-with-powershell) - Learn how to build, organize, and share useful automations with PowerShell.
 * [Learn dbatools in a Month of Lunches](https://www.manning.com/books/learn-dbatools-in-a-month-of-lunches) - Learn how to automate SQL Server with PowerShell and the awesome dbatools module.
 * [Tiny PowerShell Projects](https://www.manning.com/books/tiny-powershell-projects) - A hands-on tutorial for system administration with PowerShell.
+</details>
 
-## Build Tools
+<details>
+  <summary>Build Tools</summary>
 
 * [psake](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
@@ -91,13 +71,17 @@ It includes a command-line shell and an associated scripting language.
 * [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
 * [YDeliver](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
 * [DroneHelper](https://gitea.ocram85.com/OCram85/DroneHelper) - Drone + Gitea helper for testing and building PowerShell projects.
+</details>
 
-## Code and Package Repositories
+<details>
+  <summary>Code and Package Repositories</summary>
 
 * [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
 * [PowerShell Gallery](https://www.powershellgallery.com/) - Official PowerShell package repository, used by PowerShellGet.
+</details>
 
-## Commandline Productivity
+<details>
+  <summary>Commandline Productivity</summary>
 
 * [Dotenv](https://github.com/insomnimus/ps-dotenv) - Provides directory specific environments through .env files, similar to direnv.
 * [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
@@ -118,15 +102,19 @@ It includes a command-line shell and an associated scripting language.
 * [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler
 * [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+</details>
 
-## Communities
+<details>
+  <summary>Communities</summary>
 
 * [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
 * [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
 * [Slack PowerShell team](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
 * [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/) - Very active PowerShell and automation user group. Meets on first and third Wednesdays. All skill levels welcome.
+</details>
 
-## Data
+<details>
+  <summary>Data</summary>
 
 * [hjson-powershell](https://github.com/TomasBouda/hjson-powershell) - Simple powershell module for conversion between [HJSON](https://hjson.github.io/) and JSON.
 * [ImportExcel](https://github.com/dfinke/ImportExcel) - Module to import/export Excel spreadsheets, without Excel.
@@ -134,14 +122,18 @@ It includes a command-line shell and an associated scripting language.
 * [PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is a PowerShell module allowing you to create HTML easily.
 * [PSWritePDF](https://github.com/EvotecIT/PSWritePDF) - Module to create, edit, split, merge PDF files on Windows / Linux and MacOS.
 * [PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - Module to create Microsoft Word documents without Microsoft Word installed.
+</details>
 
-## Documentation Helper
+<details>
+  <summary>Documentation Helper</summary>
 
 * [platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
 * [Invoke-CreateModuleHelpFile](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands.
 * [PScribo](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (domain specific language).
+</details>
 
-## Editors and IDEs
+<details>
+  <summary>Editors and IDEs</summary>
 
 * [PowerShell Studio](https://www.sapien.com/software/powershell_studio) - Powerful PowerShell IDE with module, help, and user interface development tools, high DPI support and regular updates.
 * [PowerShell for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Provides IntelliSense, code navigations, script analysis, script debugging, and more for the [Visual Studio Code](https://code.visualstudio.com) editor.
@@ -151,51 +143,66 @@ It includes a command-line shell and an associated scripting language.
 * [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - All in one IDE.
 * [SublimeText package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
 * [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
+</details>
 
-## Frameworks
+<details>
+  <summary>Frameworks</summary>
 
 * [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 * [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerful server management framework.
 * [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Useful set of additional cmdlets.
 * [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
 * [Kansa](https://github.com/davehull/Kansa) - Incident response framework.
+</details>
 
-## Interactive Learning
+<details>
+  <summary>Interactive Learning</summary>
 
 * [PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
 * [Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell.
-
-## Logging
+</details>
+<details>
+  <summary>Logging</summary>
 
 * [PoShLog](https://github.com/PoShLog/PoShLog) - Cross-platform, extensible logging module built upon [Serilog](https://serilog.net).
+</details>
 
-## Module Development Templates
+<details>
+  <summary>Module Development Templates</summary>
 
 * [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
 * [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.
 * [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+</details>
 
-## Package Managers
+<details>
+  <summary>Package Managers</summary>
 
 * [PowerShellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com).
 * [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 * [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
 * [Scoop](https://scoop.sh) - A command-line installer for Windows.
 * [PowerShell App Deployment Toolkit](https://psappdeploytoolkit.com/) - Provides a set of functions to perform common application deployment tasks and to interact with the user during a deployment.
+</details>
 
-## Parallel Processing
+<details>
+  <summary>Parallel Processing</summary>
 
 * [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSJobs with greater performance and less overhead to run commands in the background.
 * [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel.
 * [PSThreadJob](https://github.com/PaulHigin/PSThreadJob) - Module for running concurrent jobs based on threads rather than processes.
+</details>
 
-## Podcasts
+<details>
+  <summary>Podcasts</summary>
 
 * [PowerScripting](https://powershell.org/category/podcast/) - Weekly show run by Jon Walz and Hal Rottenberg.
 * [The PowerShell News Podcast](https://powershellnews.podbean.com/) - This podcast is the latest news on PowerShell.
 * [The PowerShell Podcast](https://powershellpodcast.podbean.com/) - Weekly show that highlights what makes PowerShell so great, the community.
+</details>
 
-## Security
+<details>
+  <summary>Security</summary>
 
 * [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer.
@@ -213,34 +220,43 @@ It includes a command-line shell and an associated scripting language.
 * [Powershellery](https://github.com/nullbind/Powershellery) - Powershell scripts used for general hackery.
 * [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) - Toolkit for Attacking SQL Server.
 * [PSCredentialStore](https://gitea.ocram85.com/OCram85/PSCredentialStore) - :closed_lock_with_key: A simple cross-platform credential manager to store and reuse multiple PSCredential objects.
+</details>
 
-## SharePoint
+<details>
+  <summary>SharePoint</summary>
 
 * [AutoSPInstaller](https://autospinstaller.com/) - Automated SharePoint 2010-2019 installation script.
 * [SharePoint-Powershell](https://learn.microsoft.com/en-us/powershell/sharepoint/) - Learn about using PowerShell cmdlets for SharePoint in Microsoft 365 and SharePoint Server.
 * [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
 * [SharePoint2019Commands](https://github.com/sassdawe/SharePoint2019Commands) - PowerShell module to help you auto-load all SharePoint 2019 cmdlets.
-
-## SQL Server
+</details>
+<details>
+  <summary>SQL Server</summary>
 
 * [dbatools](https://dbachecks.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
 * [SimplySql](https://github.com/mithrandyr/SimplySql) - SimplySql is a module that provides an intuitive set of cmdlets for talking to databases that abstracts the vendor specifics. The basic pattern is to connect to a database, execute one or more sql.
+</details>
 
-## Testing
+<details>
+  <summary>Testing</summary>
 
 * [Pester](https://github.com/pester/Pester) - PowerShell BDD style testing framework.
 * [Format-Pester](https://github.com/equelin/format-pester) - PowerShell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo](https://github.com/iainbrighton/PScribo).
 * [Selenium](https://github.com/adamdriscoll/selenium-powershell) - PowerShell module to run a Selenium WebDriver.
 * [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - PSScriptAnalyzer provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
+</details>
 
-## Themes
+<details>
+  <summary>Themes</summary>
 
 * [Oh-My-Posh](https://github.com/jandedobbeleer/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 * [PoshColor](https://github.com/JustABearOz/PoshColor) - Colour output from common commands with support for custom themes.
 * [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts.
 * [Starship](https://github.com/starship/starship) - The minimal, blazing fast, and extremely customizable prompt for any shell.
+</details>
 
-## UI
+<details>
+  <summary>UI</summary>
 
 * [AnyBox](https://github.com/dm3ll3n/AnyBox) - Designed to facilitate script input/output with an easily customizable WPF window.
 * [BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
@@ -250,8 +266,10 @@ It includes a command-line shell and an associated scripting language.
 * [PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 * [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - Module to show file and folder icons in the terminal.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
+</details>
 
-## Videos
+<details>
+  <summary>Videos</summary>
 
 * [PowerShell Unplugged with Jeffrey Snover and Don Jones Ignite 2017](https://www.youtube.com/watch?v=D15vh-ryJGk) - The inventor of PowerShell talking about "the latest and coolest PowerShell features to help you automate and manage the hybrid cloud". Focused on the PowerShell Community.
 * [Getting Started With PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276) - Jump starts series are for IT professionals with no previous experience with PowerShell, and want to learn it fast.
@@ -272,16 +290,20 @@ It includes a command-line shell and an associated scripting language.
 * [All Things Microsoft PowerShell](https://www.youtube.com/watch?v=IHrGresKu2w&list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi) - Another general language reference.
 * [Research Triangle PowerShell User Group YouTube Channel](https://www.youtube.com/rtpsug/) - large catalog of user group meetings and demos by community members. 150+ hours of content.
 * [The anatomy of the Get-Help command in PowerShell](https://www.youtube.com/watch?v=cEswNaXxJ9g) - Software Engineer Tyler Leonhardt introduces the Powershell help system.
+</details>
 
-## Webserver
+<details>
+  <summary>Webserver</summary>
 
 * [Flancy](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
 * [Pode](https://github.com/Badgerati/Pode) - Pode is a Cross-Platform PowerShell framework for creating web servers to host REST APIs, Web Sites, and TCP/SMTP Servers.
 * [Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell.
 * [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
 * [Universal Dashboard](https://ironmansoftware.com/powershell-universal-dashboard) - Cross-platform module for developing websites and REST APIs.
+</details>
 
-## Misc
+<details>
+  <summary>Misc</summary>
 
 * [DbgShell](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native PowerShell code with zero dependencies.
@@ -292,3 +314,4 @@ It includes a command-line shell and an associated scripting language.
 * [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 * [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 * [Explore PowerShell](https://kandi.openweaver.com/explore/powershell) - Discover & find a curated list of popular & new PowerShell libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
+</details>
