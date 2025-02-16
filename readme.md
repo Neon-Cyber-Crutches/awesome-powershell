@@ -140,7 +140,7 @@ It includes a command-line shell and an associated scripting language.
 https://github.com/ironmansoftware/powershell-pro-tools
 * [Powershell Pro Tools](https://github.com/ironmansoftware/powershell-pro-tools) - Powerful tools for PowerShell Developers. Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio and Visual Studio Code.
 * [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise) - Official PowerShell development environment included with Microsoft Windows.
-* [ISE Steroids](http://www.powertheshell.com/isesteroids/) - Add-on for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
+* [ISE Steroids](https://powershell.one/isesteroids/quickstart/overview) - Paitd add-on (with a 10 days trial period) for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
 * [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - All in one IDE.
 * [SublimeText package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
 * [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
