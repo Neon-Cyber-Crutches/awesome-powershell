@@ -53,6 +53,13 @@ It includes a command-line shell and an associated scripting language.
 * [Slack PowerShell team](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
 * [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/) - Very active PowerShell and automation user group. Meets on first and third Wednesdays. All skill levels welcome.
 </details>
+<details>
+  <summary>Podcasts</summary>
+
+* [PowerScripting](https://powershell.org/category/podcast/) - Weekly show run by Jon Walz and Hal Rottenberg.
+* [The PowerShell News Podcast](https://powershellnews.podbean.com/) - This podcast is the latest news on PowerShell.
+* [The PowerShell Podcast](https://powershellpodcast.podbean.com/) - Weekly show that highlights what makes PowerShell so great, the community.
+</details>
 
 <details>
   <summary>Code and Package Repositories</summary>
@@ -77,7 +84,6 @@ It includes a command-line shell and an associated scripting language.
 * [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
 * [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
 </details>
-
 
 <details>
   <summary>Build Tools</summary>
@@ -197,14 +203,6 @@ https://github.com/ironmansoftware/powershell-pro-tools
 </details>
 
 <details>
-  <summary>Podcasts</summary>
-
-* [PowerScripting](https://powershell.org/category/podcast/) - Weekly show run by Jon Walz and Hal Rottenberg.
-* [The PowerShell News Podcast](https://powershellnews.podbean.com/) - This podcast is the latest news on PowerShell.
-* [The PowerShell Podcast](https://powershellpodcast.podbean.com/) - Weekly show that highlights what makes PowerShell so great, the community.
-</details>
-
-<details>
   <summary>Security</summary>
 
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer.
@@ -318,5 +316,8 @@ https://github.com/ironmansoftware/powershell-pro-tools
 * [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 * [Explore PowerShell](https://kandi.openweaver.com/explore/powershell) - Discover & find a curated list of popular & new PowerShell libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 </details>
+<<<<<<< HEAD:readme.md
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fahpooch%2Fawesome-powershell%2Factions%2Fworkflows%2F144515949%2Fruns%3Fstatus%3Dcompleted%26conclusion%3Dsuccess%26per_page%3D1&query=%24.workflow_runs%5B0%5D.updated_at&label=Links%20verified%20at&labelColor=green)
+=======
+>>>>>>> 06515cf159084e1feb9bb17e22ed142183a20abf:README.md

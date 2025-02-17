@@ -4,7 +4,7 @@ run-name: "Links verification process coused by @${{ github.actor }}"
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - 'README.md'
   pull_request:
@@ -23,7 +23,7 @@ permissions:
   statuses: write
 
 jobs:
-  check_links_with_linkSpector_manually:
+  check_links_with_linkSpector:
     name: runner / linkspector
     runs-on: ubuntu-latest
     steps:
