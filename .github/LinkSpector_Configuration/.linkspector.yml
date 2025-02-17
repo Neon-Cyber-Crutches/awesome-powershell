@@ -1,0 +1,6 @@
+files: 
+  - README.md
+aliveStatusCodes:
+  - 200
+  - 403
+useGitIgnore: true

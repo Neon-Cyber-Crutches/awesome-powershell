@@ -1,0 +1,38 @@
+name: "Links verification"
+run-name: "Links verification process coused by @${{ github.actor }}"
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  pull_request:
+    types: 
+      - opened
+      - synchronize
+      - reopened
+    paths:
+      - 'README.md'
+
+permissions:
+  actions: write
+  checks: write
+  contents: write
+  pull-requests: write
+  statuses: write
+
+jobs:
+  check_links_with_linkSpector_manually:
+    name: runner / linkspector
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run linkspector
+        uses: umbrelladocs/action-linkspector@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          config_file: .github/LinkSpector_Configuration/.linkspector.yml
+          reporter: github-check
+          filter_mode: nofilter
+          fail_level: any
