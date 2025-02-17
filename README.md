@@ -129,6 +129,7 @@ It includes a command-line shell and an associated scripting language.
 * [PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is a PowerShell module allowing you to create HTML easily.
 * [PSWritePDF](https://github.com/EvotecIT/PSWritePDF) - Module to create, edit, split, merge PDF files on Windows / Linux and MacOS.
 * [PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - Module to create Microsoft Word documents without Microsoft Word installed.
+* [PsIni](https://github.com/lipkau/PsIni) - Module for working with INI files in PowerShell using hashtables.
 </details>
 
 <details>
