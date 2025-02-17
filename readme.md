@@ -10,23 +10,6 @@ It includes a command-line shell and an associated scripting language.
 
 ## Contents (unfoldable)
 <details>
-  <summary>API Wrappers</summary>
-
-* [HipChatAdmin](https://github.com/cofonseca/HipChatAdmin) - A module for simple integration with Atlassian HipChat via the HipChat API.
-* [PSGitHub](https://github.com/pcgeek86/PSGitHub) - Module contains commands to manage GitHub through its REST API.
-* [Posh-GitHub](https://github.com/Iristyle/Posh-GitHub) - Cmdlets that expose the GitHub API.
-* [Posh-Gist](https://github.com/dfinke/Posh-Gist) - Cmdlets for interacting with GitHub Gist.
-* [PSGist](https://github.com/dotps1/PSGist) - A module to work with GitHub Gists.
-* [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A module to interact with the AppVeyor REST API.
-* [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - Module for simple Slack integration.
-* [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
-* [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
-* [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs
-* [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
-* [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
-</details>
-
-<details>
   <summary>Blogs</summary>
 
 * [Windows PowerShell Blog](https://devblogs.microsoft.com/powershell/) - Official PowerShell Team Blog.
@@ -63,6 +46,40 @@ It includes a command-line shell and an associated scripting language.
 </details>
 
 <details>
+  <summary>Communities</summary>
+
+* [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
+* [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
+* [Slack PowerShell team](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
+* [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/) - Very active PowerShell and automation user group. Meets on first and third Wednesdays. All skill levels welcome.
+</details>
+
+<details>
+  <summary>Code and Package Repositories</summary>
+
+* [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
+* [PowerShell Gallery](https://www.powershellgallery.com/) - Official PowerShell package repository, used by PowerShellGet.
+</details>
+
+<details>
+  <summary>API Wrappers</summary>
+
+* [HipChatAdmin](https://github.com/cofonseca/HipChatAdmin) - A module for simple integration with Atlassian HipChat via the HipChat API.
+* [PSGitHub](https://github.com/pcgeek86/PSGitHub) - Module contains commands to manage GitHub through its REST API.
+* [Posh-GitHub](https://github.com/Iristyle/Posh-GitHub) - Cmdlets that expose the GitHub API.
+* [Posh-Gist](https://github.com/dfinke/Posh-Gist) - Cmdlets for interacting with GitHub Gist.
+* [PSGist](https://github.com/dotps1/PSGist) - A module to work with GitHub Gists.
+* [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A module to interact with the AppVeyor REST API.
+* [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - Module for simple Slack integration.
+* [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
+* [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
+* [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs
+* [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
+* [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
+</details>
+
+
+<details>
   <summary>Build Tools</summary>
 
 * [psake](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
@@ -71,13 +88,6 @@ It includes a command-line shell and an associated scripting language.
 * [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
 * [YDeliver](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
 * [DroneHelper](https://gitea.ocram85.com/OCram85/DroneHelper) - Drone + Gitea helper for testing and building PowerShell projects.
-</details>
-
-<details>
-  <summary>Code and Package Repositories</summary>
-
-* [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
-* [PowerShell Gallery](https://www.powershellgallery.com/) - Official PowerShell package repository, used by PowerShellGet.
 </details>
 
 <details>
@@ -102,15 +112,6 @@ It includes a command-line shell and an associated scripting language.
 * [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler
 * [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
-</details>
-
-<details>
-  <summary>Communities</summary>
-
-* [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
-* [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
-* [Slack PowerShell team](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
-* [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/) - Very active PowerShell and automation user group. Meets on first and third Wednesdays. All skill levels welcome.
 </details>
 
 <details>
@@ -162,6 +163,7 @@ https://github.com/ironmansoftware/powershell-pro-tools
 * [PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
 * [Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell.
 </details>
+
 <details>
   <summary>Logging</summary>
 
@@ -230,6 +232,7 @@ https://github.com/ironmansoftware/powershell-pro-tools
 * [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
 * [SharePoint2019Commands](https://github.com/sassdawe/SharePoint2019Commands) - PowerShell module to help you auto-load all SharePoint 2019 cmdlets.
 </details>
+
 <details>
   <summary>SQL Server</summary>
 
