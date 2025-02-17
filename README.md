@@ -316,8 +316,5 @@ https://github.com/ironmansoftware/powershell-pro-tools
 * [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 * [Explore PowerShell](https://kandi.openweaver.com/explore/powershell) - Discover & find a curated list of popular & new PowerShell libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 </details>
-<<<<<<< HEAD:readme.md
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fahpooch%2Fawesome-powershell%2Factions%2Fworkflows%2F144515949%2Fruns%3Fstatus%3Dcompleted%26conclusion%3Dsuccess%26per_page%3D1&query=%24.workflow_runs%5B0%5D.updated_at&label=Links%20verified%20at&labelColor=green)
-=======
->>>>>>> 06515cf159084e1feb9bb17e22ed142183a20abf:README.md
