@@ -3,4 +3,5 @@ files:
 aliveStatusCodes:
   - 200
   - 403
+  - 500
 useGitIgnore: true
