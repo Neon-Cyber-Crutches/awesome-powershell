@@ -4,4 +4,5 @@ aliveStatusCodes:
   - 200
   - 403
   - 500
+  - 502
 useGitIgnore: true
