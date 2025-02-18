@@ -168,6 +168,7 @@ https://github.com/ironmansoftware/powershell-pro-tools
   <summary>Interactive Learning</summary>
 
 * [PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
+* [Code golf](https://code.golf/tutorial#powershell) - Solve puzzles with Powershell in as few characters as possible.
 * [Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell.
 </details>
 
