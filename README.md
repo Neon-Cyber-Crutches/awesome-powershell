@@ -2,11 +2,11 @@
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" alt="Powershell logo" align="right" style="margin:10px 20px 0px 10px " width="100" height="100">](https://msdn.microsoft.com/en-us/powershell/)
 
-> [!NOTE]
+> [!NOTE] About Awesome PowerShell
 > A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resources.
 >
 >PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
-It includes a command-line shell and an associated scripting language.
+>It includes a command-line shell and an associated scripting language.
 
 ## Contents
 
@@ -28,7 +28,7 @@ It includes a command-line shell and an associated scripting language.
 - [Package Managers](#package-managers)
 - [Parallel Processing](#parallel-processing)
 - [Security](#security)
-- [Sharepoint](#sharepoint)
+- [SharePoint](#sharepoint)
 - [SQL Server](#sql-server)
 - [Testing](#testing)
 - [Themes](#themes)
@@ -42,7 +42,7 @@ It includes a command-line shell and an associated scripting language.
 - [Windows PowerShell Blog](https://devblogs.microsoft.com/powershell/) - Official PowerShell Team Blog.
 - [Learn PowerShell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
-- [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette
+- [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette.
 - [Doug Finke](https://dfinke.github.io/#blog) - Author of [PowerShell for Developers](http://shop.oreilly.com/product/0636920024491.do).
 - [Mike F. Robbins](http://mikefrobbins.com/) - Microsoft MVP. SAPIEN Tech MVP. Co-author of Windows PowerShell TFM 4th Edition.
 - [Adam the Automator](https://adamtheautomator.com/) - Engaging, technical content on all things automation, cloud computing and DevOps by Adam Bertram and friends.
@@ -51,7 +51,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Books
 
-- [Exploring PowerShell Automation](https://www.manning.com/books/exploring-powershell-automation) - a free eBook sampler that gives you an overview of how to administer your environment.
+- [Exploring PowerShell Automation](https://www.manning.com/books/exploring-powershell-automation) - A free eBook sampler that gives you an overview of how to administer your environment.
 - [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth) - The go-to reference for administrators. Every major shell technique, technology, and tactic is explained and demonstrated, providing a comprehensive reference to almost everything an admin would do in the shell.
 - [Windows PowerShell in Action, Third Edition](https://www.manning.com/books/windows-powershell-in-action-third-edition) - The latest revision of the comprehensive reference guide.
 - [Learn Windows PowerShell in a Month of Lunches, Third Edition](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition) - An innovative tutorial designed for busy IT professionals. Just set aside one hour a day - lunchtime would be perfect - for a month, and you'll be automating Windows tasks faster than you ever thought possible.
@@ -98,7 +98,7 @@ It includes a command-line shell and an associated scripting language.
 - [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - Module for simple Slack integration.
 - [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
 - [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
-- [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs
+- [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs.
 - [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
 - [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
 
@@ -120,16 +120,17 @@ It includes a command-line shell and an associated scripting language.
 - [PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for common cli tools like git, npm and more.
 - [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - PowerShell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for PowerShell. **`UNMAINTAINED`**
-- [Zlocation](https://github.com/vors/ZLocation) * [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
+- [Zlocation](https://github.com/vors/ZLocation) - implementation of [z.sh](https://github.com/rupa/z) for PowerShell. Similar to Jump-Location.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 - [PSFzf](https://github.com/kelleyma49/PSFzf) - a PowerShell module that wraps [fzf](https://github.com/junegunn/fzf), a fuzzy file finder for the command line.
 - [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for PowerShell.
 - [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
-- [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
+- [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
+- [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - Peco implementation. Interactive filtering tool.
 - [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the PowerShell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
 - [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil) - Designed to make the user's console life more convenient. It includes shortcuts, aliases, key bindings and convenience functions geared towards greater efficiency and less typing.
 - [Microsoft.PowerShell.UnixCompleters](https://github.com/PowerShell/Modules/tree/master/Modules/Microsoft.PowerShell.UnixCompleters) - Get parameter completion for native Unix utilities. Requires zsh or bash.
-- [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler
+- [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler.
 - [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
@@ -214,7 +215,7 @@ It includes a command-line shell and an associated scripting language.
 - [PESecurity](https://github.com/NetSPI/PESecurity) - Module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode.
 - [Powershellery](https://github.com/nullbind/Powershellery) - Powershell scripts used for general hackery.
 - [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) - Toolkit for Attacking SQL Server.
-- [PSCredentialStore](https://gitea.ocram85.com/OCram85/PSCredentialStore) - :closed_lock_with_key: A simple cross-platform credential manager to store and reuse multiple PSCredential objects.
+- [PSCredentialStore](https://gitea.ocram85.com/OCram85/PSCredentialStore) - A simple cross-platform credential manager to store and reuse multiple PSCredential objects :closed_lock_with_key:.
 
 ## SharePoint
 
@@ -272,7 +273,7 @@ It includes a command-line shell and an associated scripting language.
 - [AD Forensics with PowerShell - Ashley McGlone](https://www.youtube.com/watch?v=VrDjiVbZZE8) - A lot of AD related scripting and analysis techniques.
 - [Windows PowerShell What's New in V2 - SAPIEN](https://www.youtube.com/watch?v=85Yrs5ezxHE&list=PL6ue9e1DXqDv74YTX91gYonfFsweNmrDK) - Old but gold. Most of this is still very relevant.
 - [All Things Microsoft PowerShell](https://www.youtube.com/watch?v=IHrGresKu2w&list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi) - Another general language reference.
-- [Research Triangle PowerShell User Group YouTube Channel](https://www.youtube.com/rtpsug/) - large catalog of user group meetings and demos by community members. 150+ hours of content.
+- [Research Triangle PowerShell User Group YouTube Channel](https://www.youtube.com/rtpsug/) - Large catalog of user group meetings and demos by community members. 150+ hours of content.
 - [The anatomy of the Get-Help command in PowerShell](https://www.youtube.com/watch?v=cEswNaXxJ9g) - Software Engineer Tyler Leonhardt introduces the Powershell help system.
 
 ## Webserver
