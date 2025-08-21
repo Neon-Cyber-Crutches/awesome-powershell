@@ -1,4 +1,4 @@
-# Awesome PowerShell [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Links verification](https://github.com/ahpooch/awesome-powershell/workflows/Links%20verification/badge.svg)](https://github.com/ahpooch/awesome-powershell/actions/workflows/Links_verification.yml)
+# Awesome PowerShell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Links verification](https://github.com/ahpooch/awesome-powershell/workflows/Links%20verification/badge.svg)](https://github.com/ahpooch/awesome-powershell/actions/workflows/Links_verification.yml)
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" alt="Powershell logo" align="right" style="margin:10px 20px 0px 10px " width="100" height="100">](https://msdn.microsoft.com/en-us/powershell/)
 
