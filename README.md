@@ -1,4 +1,4 @@
-# Awesome PowerShell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Links verification](https://github.com/ahpooch/awesome-powershell/workflows/Links%20verification/badge.svg)](https://github.com/ahpooch/awesome-powershell/actions/workflows/Links_verification.yml)
+# Awesome PowerShell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" alt="Powershell logo" align="right" style="margin:10px 20px 0px 10px " width="100" height="100">](https://msdn.microsoft.com/en-us/powershell/)
 
@@ -293,5 +293,3 @@
 - [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 - [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 - [Explore PowerShell](https://kandi.openweaver.com/explore/powershell) - Discover & find a curated list of popular & new PowerShell libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
-
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fahpooch%2Fawesome-powershell%2Factions%2Fworkflows%2F144515949%2Fruns%3Fstatus%3Dcompleted%26conclusion%3Dsuccess%26per_page%3D1&query=%24.workflow_runs%5B0%5D.updated_at&label=Links%20verified%20at&labelColor=green)
