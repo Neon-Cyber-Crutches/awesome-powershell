@@ -16,6 +16,7 @@
 - [Podcasts](#podcasts)
 - [Code and Package Repositories](#code-and-package-repositories)
 - [API Wrappers](#api-wrappers)
+- [Templating Engines](#templating-engines)
 - [Build Tools](#build-tools)
 - [Module Development Templates](#module-development-templates)
 - [Commandline Productivity](#commandline-productivity)
@@ -101,6 +102,10 @@
 - [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs.
 - [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
 - [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
+
+## Templating Engines
+
+- [eps](https://github.com/straightdave/eps) - A templating engine for PowerShell. Similar to Jinga2 in python, ERB in Ruby or Twig in PHP.
 
 ## Build Tools
 
