@@ -293,6 +293,10 @@
 - [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
 - [Powershell Universal](https://www.powershelluniversal.com/) - Cross-platform module for developing websites and REST APIs.
 
+## AI
+
+- [PowerShellAI](https://github.com/StartAutomating/PowerShellAI) - PowerShell meets GPT - Artificial Intelligence
+
 ## Misc
 
 - [DbgShell](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
