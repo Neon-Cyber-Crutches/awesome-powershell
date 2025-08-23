@@ -111,6 +111,7 @@
 
 - [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
 - [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler.
+- [ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production.
 - [psake](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
 - [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 - [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
@@ -123,6 +124,7 @@
 - [Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
 - [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [PSStucco](https://github.com/jimbrig/PSStucco) - An opinionated Plaster template for high-quality PowerShell modules. Successor of [Stucco](https://github.com/devblackops/Stucco)
+- [PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - Module builder helper that helps build PowerShell modules "Evotec way"
 - [Mold](https://github.com/belibug/Mold) - Mold is PowerShell template & scaffolding engine that lets you effortlessly craft templates for any language, on any platform.
 - [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development. Templating engine that allows you to swiftly create new projects.
 - [Module.Template](https://github.com/ili101/Module.Template) - Powershell Module Template with GitHub, PowerShellGallery and AppVeyor.
