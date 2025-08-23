@@ -17,6 +17,7 @@
 - [Code and Package Repositories](#code-and-package-repositories)
 - [API Wrappers](#api-wrappers)
 - [Build Tools](#build-tools)
+- [Module Development Templates](#module-development-templates)
 - [Commandline Productivity](#commandline-productivity)
 - [Data](#data)
 - [Documentation Helper](#documentation-helper)
@@ -24,7 +25,6 @@
 - [Frameworks](#frameworks)
 - [Interactive Learning](#interactive-learning)
 - [Logging](#logging)
-- [Module Development Templates](#module-development-templates)
 - [Package Managers](#package-managers)
 - [Parallel Processing](#parallel-processing)
 - [Security](#security)
@@ -104,12 +104,23 @@
 
 ## Build Tools
 
-- [psake](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
 - [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
+- [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler.
+- [psake](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
 - [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 - [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
 - [YDeliver](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
 - [DroneHelper](https://gitea.ocram85.com/OCram85/DroneHelper) - Drone + Gitea helper for testing and building PowerShell projects.
+
+## Module Development Templates
+
+- [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+- [Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
+- [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+- [PSStucco](https://github.com/jimbrig/PSStucco) - An opinionated Plaster template for high-quality PowerShell modules. Successor of [Stucco](https://github.com/devblackops/Stucco)
+- [Mold](https://github.com/belibug/Mold) - Mold is PowerShell template & scaffolding engine that lets you effortlessly craft templates for any language, on any platform.
+- [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development. Templating engine that allows you to swiftly create new projects.
+- [Module.Template](https://github.com/ili101/Module.Template) - Powershell Module Template with GitHub, PowerShellGallery and AppVeyor.
 
 ## Commandline Productivity
 
@@ -130,7 +141,6 @@
 - [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the PowerShell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
 - [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil) - Designed to make the user's console life more convenient. It includes shortcuts, aliases, key bindings and convenience functions geared towards greater efficiency and less typing.
 - [Microsoft.PowerShell.UnixCompleters](https://github.com/PowerShell/Modules/tree/master/Modules/Microsoft.PowerShell.UnixCompleters) - Get parameter completion for native Unix utilities. Requires zsh or bash.
-- [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler.
 - [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
@@ -178,12 +188,6 @@
 ## Logging
 
 - [PoShLog](https://github.com/PoShLog/PoShLog) - Cross-platform, extensible logging module built upon [Serilog](https://serilog.net).
-
-## Module Development Templates
-
-- [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
-- [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.
-- [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 
 ## Package Managers
 
