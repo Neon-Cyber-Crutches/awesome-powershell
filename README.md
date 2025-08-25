@@ -1,6 +1,8 @@
 # Awesome PowerShell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!-- markdownlint-disable MD033 -->
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" alt="Powershell logo" align="right" style="margin:10px 20px 0px 10px " width="100" height="100">](https://msdn.microsoft.com/en-us/powershell/)
+<!-- markdownlint-enable MD033 -->
 
 > \[!NOTE]
 > A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resources.
