@@ -300,7 +300,8 @@
 
 ## AI
 
-- [PowerShellAI](https://github.com/StartAutomating/PowerShellAI) - PowerShell meets GPT - Artificial Intelligence
+- [PSAI](https://github.com/dfinke/PSAI/) - PowerShell AI module. Think ChatGPT meets PowerShell - Includes Autonomous Agents.
+- [PowerShellAI](https://github.com/StartAutomating/PowerShellAI) - PowerShell meets GPT - Artificial Intelligence.
 
 ## Misc
 
