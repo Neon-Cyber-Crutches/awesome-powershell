@@ -245,7 +245,7 @@
 
 ## Testing
 
-- [Pester](https://github.com/pester/Pester) - PowerShell BDD style testing framework.
+- [Pester](https://github.com/pester/Pester) - PowerShell TDD style testing framework.
 - [Format-Pester](https://github.com/equelin/format-pester) - PowerShell module for documenting Pester's results - exports Pester results to HTML, Word, text files using PScribo.
 - [Selenium](https://github.com/adamdriscoll/selenium-powershell) - PowerShell module to run a Selenium WebDriver.
 - [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - PSScriptAnalyzer provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
