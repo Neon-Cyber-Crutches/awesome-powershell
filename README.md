@@ -320,6 +320,7 @@
 - [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 - [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 - [ps12exe](https://github.com/steve02081504/ps12exe) - PowerShell module that allows you to create an executable file from a .ps1 script.
+- [ps2exe](https://github.com/MScholtes/PS2EXE) - PowerShell module to compile powershell scripts to executables.
 - [DesktopManager](https://github.com/EvotecIT/DesktopManager) - PowerShell module and a C# library that allows to get and set wallpapers to given monitor.
 - [Oracle Cloud Infrastructure(OCI) Modules for PowerShell](https://github.com/oracle/oci-powershell-modules) - A set of cmdlet modules that can be used with PowerShell Core to manage Oracle Cloud Infrastructure resources.
 - [PSCompression](https://github.com/santisq/PSCompression) - PowerShell module that provides utilities for creating, managing, and extracting zip and tar archives, as well as compressing and decompressing strings. It overcomes limitations in built-in PowerShell archive cmdlets (e.g., 2 GB zip file limits) and supports multiple compression algorithms, including gzip, bzip2, Zstandard, lzip, Brotli, Deflate, and Zlib. Built for cross-platform use, it’s compatible with Windows, Linux, and macOS.
