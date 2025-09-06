@@ -193,6 +193,7 @@
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerful server management framework.
 - [Testimo](https://github.com/EvotecIT/Testimo) - PowerShell module for running health checks for Active Directory against a bunch of different tests.
 - [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
+- [Crescendo](https://github.com/PowerShell/Crescendo) - Powershell module for wrapping native applications in a PowerShell function and module.
 - [Kansa](https://github.com/davehull/Kansa) - Incident response framework.
 - [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - Provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts.
 - [PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment Extension Kit. The purpose of PowerShell Deployment for MDT is to create a new deployment solution that provides the same level of automation as MDT but built on a more modern framework - PowerShell.
