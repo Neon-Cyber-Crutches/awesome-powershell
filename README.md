@@ -330,3 +330,4 @@
 - [windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - PowerShell scripts to create and manage explorer context menu items for Windows Terminal.
 - [SNMP](https://www.powershellgallery.com/packages/SNMP) - PowerShell module to manage systems using SNMP.
 - [SNMPv3](https://github.com/lahell/SNMPv3) - PowerShell module for SNMPv3.
+- [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH.
