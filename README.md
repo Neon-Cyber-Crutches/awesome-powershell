@@ -188,9 +188,10 @@
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerful server management framework.
-- [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Useful set of additional cmdlets.
+- [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Usefuld set of additional cmdlets.
 - [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
 - [Kansa](https://github.com/davehull/Kansa) - Incident response framework.
+- [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - Provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts.
 
 ## Interactive Learning
 
