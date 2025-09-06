@@ -212,6 +212,7 @@
 - [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSJobs with greater performance and less overhead to run commands in the background.
 - [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel.
 - [PSThreadJob](https://github.com/PaulHigin/PSThreadJob) - Module for running concurrent jobs based on threads rather than processes.
+- [PSParallelPipeline](https://github.com/santisq/PSParallelPipeline) - PowerShell module featuring the Invoke-Parallel cmdlet, designed to process pipeline input objects in parallel using multithreading. It mirrors the capabilities of ForEach-Object -Parallel from PowerShell 7.0+, bringing this functionality to Windows PowerShell 5.1, surpassing the constraints of Start-ThreadJob.
 
 ## Security
 
