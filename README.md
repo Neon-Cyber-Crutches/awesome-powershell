@@ -344,3 +344,4 @@
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH.
 - [PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API.
 - [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Usefuld set of additional cmdlets.
+- [PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of some PowerShell traps and oddities shown by demo scripts, workarounds, and automated tests.
