@@ -225,6 +225,7 @@
 ## Administration
 
 - [PSPKI](https://github.com/Crypt32/PSPKI) - PowerShell PKI Module.
+- [ReportingServicesTools](https://github.com/microsoft/ReportingServicesTools) - PowerShell module that allow you to perform various operations with SQL Server Reporting Services and Power BI Report Server.
 
 ## Security
 
