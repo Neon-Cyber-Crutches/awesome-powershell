@@ -228,6 +228,7 @@
 ## Security
 
 - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Checks and hardens your Windows configuration.
+- [PowerStig](https://github.com/microsoft/PowerStig) - PowerShell module that contains several components to automate different DISA Security Technical Implementation Guides (STIGs) where possible.
 - [Locksmith](https://github.com/jakehildreth/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) - PowerShell toolkit for AD CS auditing based on the PSPKI toolkit.
 - [Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA).
