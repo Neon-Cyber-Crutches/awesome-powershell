@@ -313,3 +313,4 @@
 - [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
 - [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 - [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
+- [ps12exe](https://github.com/steve02081504/ps12exe) - PowerShell module that allows you to create an executable file from a .ps1 script.
