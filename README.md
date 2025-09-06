@@ -321,3 +321,4 @@
 - [PSCompression](https://github.com/santisq/PSCompression) - PowerShell module that provides utilities for creating, managing, and extracting zip and tar archives, as well as compressing and decompressing strings. It overcomes limitations in built-in PowerShell archive cmdlets (e.g., 2 GB zip file limits) and supports multiple compression algorithms, including gzip, bzip2, Zstandard, lzip, Brotli, Deflate, and Zlib. Built for cross-platform use, it’s compatible with Windows, Linux, and macOS.
 - [7Zip4Powershell](https://github.com/thoemmi/7Zip4Powershell) - Powershell module for creating and extracting 7-Zip archives supporting Powershell's WriteProgress API.
 - [PSCerts](https://github.com/syntax-tm/PSCerts) - PowerShell module for managing certificates.
+- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows.
