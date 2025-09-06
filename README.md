@@ -154,6 +154,7 @@
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 - [PSTree](https://github.com/santisq/PSTree) - Tree-like cmdlets for file system and registry exploration.
 - [PSADTree](https://github.com/santisq/PSADTree) - PowerShell Module with cmdlets that emulate the tree command for Active Directory Principals.
+- [gsudo](https://github.com/gerardog/gsudo) - A sudo equivalent for Windows, with a similar user-experience as the original Unix/Linux sudo.
 
 ## Data
 
