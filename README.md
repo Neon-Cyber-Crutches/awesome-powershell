@@ -190,7 +190,6 @@
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerful server management framework.
-- [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Usefuld set of additional cmdlets.
 - [Testimo](https://github.com/EvotecIT/Testimo) - PowerShell module for running health checks for Active Directory against a bunch of different tests.
 - [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
 - [Kansa](https://github.com/davehull/Kansa) - Incident response framework.
@@ -341,3 +340,4 @@
 - [SNMPv3](https://github.com/lahell/SNMPv3) - PowerShell module for SNMPv3.
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH.
 - [PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API.
+- [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Usefuld set of additional cmdlets.
