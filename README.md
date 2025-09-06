@@ -315,3 +315,4 @@
 - [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 - [ps12exe](https://github.com/steve02081504/ps12exe) - PowerShell module that allows you to create an executable file from a .ps1 script.
 - [DesktopManager](https://github.com/EvotecIT/DesktopManager) - PowerShell module and a C# library that allows to get and set wallpapers to given monitor.
+- [Oracle Cloud Infrastructure(OCI) Modules for PowerShell](https://github.com/oracle/oci-powershell-modules) - A set of cmdlet modules that can be used with PowerShell Core to manage Oracle Cloud Infrastructure resources.
