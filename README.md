@@ -153,6 +153,7 @@
 - [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 - [PSTree](https://github.com/santisq/PSTree) - Tree-like cmdlets for file system and registry exploration.
+- [PSADTree](https://github.com/santisq/PSADTree) - PowerShell Module with cmdlets that emulate the tree command for Active Directory Principals.
 
 ## Data
 
