@@ -194,6 +194,7 @@
 - [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
 - [Kansa](https://github.com/davehull/Kansa) - Incident response framework.
 - [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - Provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts.
+- [PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment Extension Kit. The purpose of PowerShell Deployment for MDT is to create a new deployment solution that provides the same level of automation as MDT but built on a more modern framework - PowerShell.
 
 ## Interactive Learning
 
