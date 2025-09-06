@@ -325,3 +325,6 @@
 - [7Zip4Powershell](https://github.com/thoemmi/7Zip4Powershell) - Powershell module for creating and extracting 7-Zip archives supporting Powershell's WriteProgress API.
 - [PSCerts](https://github.com/syntax-tm/PSCerts) - PowerShell module for managing certificates.
 - [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module for fine-tuning Windows.
+- [windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - PowerShell scripts to create and manage explorer context menu items for Windows Terminal.
+- [SNMP](https://www.powershellgallery.com/packages/SNMP) - PowerShell module to manage systems using SNMP.
+- [SNMPv3](https://github.com/lahell/SNMPv3) - PowerShell module for SNMPv3.
