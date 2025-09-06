@@ -229,6 +229,7 @@
 - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Checks and hardens your Windows configuration.
 - [Locksmith](https://github.com/jakehildreth/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) - PowerShell toolkit for AD CS auditing based on the PSPKI toolkit.
+- [Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA).
 - [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer.
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows.
