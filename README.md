@@ -88,7 +88,7 @@
 
 ## Code and Package Repositories
 
-- [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
+- [GitHub](https://github.com/search?q=language%3APowerShell&type=repositories) - Looking for an Open Source PowerShell project? It's probably here.
 - [PowerShell Gallery](https://www.powershellgallery.com/) - Official PowerShell package repository, used by PowerShellGet.
 
 ## API Wrappers
