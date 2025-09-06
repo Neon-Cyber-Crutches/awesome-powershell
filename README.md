@@ -113,6 +113,7 @@
 ## Build Tools
 
 - [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
+- [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - PowerShell Module to help scripters write, version, sign, package, and publish.
 - [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler.
 - [ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production.
 - [psake](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
