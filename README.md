@@ -209,6 +209,7 @@
 - [PSAtlas](https://github.com/bateskevin/PSAtlas) - An interactive Powershell learning framework.
 - [Code golf](https://code.golf/tutorial#powershell) - Solve puzzles with Powershell in as few characters as possible.
 - [Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell.
+- [Under the Wire](https://underthewire.tech/) - Under the Wire trains experienced, developing, and novice Information Technologists to use Windows PowerShell in a variety of situations through innovative and fun wargames.
 
 ## Logging
 
