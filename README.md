@@ -228,6 +228,7 @@
 - [PSPKI](https://github.com/Crypt32/PSPKI) - PowerShell PKI Module.
 - [ReportingServicesTools](https://github.com/microsoft/ReportingServicesTools) - PowerShell module that allow you to perform various operations with SQL Server Reporting Services and Power BI Report Server.
 - [NTFSSecurity](https://github.com/raandree/NTFSSecurity) - Powershell module to ease management and audit of NTFS permissions.
+- [Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer) - Comprehensive Windows Server Update Services (WSUS) cleanup, optimization, maintenance, and configuration PowerShell script.
 
 ## Security
 
