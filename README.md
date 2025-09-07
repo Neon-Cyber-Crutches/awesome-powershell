@@ -286,6 +286,7 @@
 - [PoshColor](https://github.com/JustABearOz/PoshColor) - Colour output from common commands with support for custom themes.
 - [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts.
 - [Starship](https://github.com/starship/starship) - The minimal, blazing fast, and extremely customizable prompt for any shell.
+- [TerminalBuddy](https://github.com/plastikfan/TerminalBuddy) - Powershell module that performs bulk conversion of iterm colour schemes for iterm2 to be used within Windows Terminal.
 
 ## UI
 
