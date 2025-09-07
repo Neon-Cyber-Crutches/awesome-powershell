@@ -236,6 +236,7 @@
 - [PowerStig](https://github.com/microsoft/PowerStig) - PowerShell module that contains several components to automate different DISA Security Technical Implementation Guides (STIGs) where possible.
 - [Locksmith](https://github.com/jakehildreth/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) - PowerShell toolkit for AD CS auditing based on the PSPKI toolkit.
+- [SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults.
 - [Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA).
 - [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer.
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations.
