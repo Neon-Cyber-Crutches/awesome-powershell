@@ -206,6 +206,7 @@
 ## Interactive Learning
 
 - [PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
+- [PSAtlas](https://github.com/bateskevin/PSAtlas) - An interactive Powershell learning framework.
 - [Code golf](https://code.golf/tutorial#powershell) - Solve puzzles with Powershell in as few characters as possible.
 - [Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell.
 
