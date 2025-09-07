@@ -347,3 +347,4 @@
 - [PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API.
 - [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Usefuld set of additional cmdlets.
 - [PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of some PowerShell traps and oddities shown by demo scripts, workarounds, and automated tests.
+- [restic-windows-backup](https://github.com/kmwoley/restic-windows-backup) - Powershell scripts to run Restic backups on Windows. Simplifies the process of installation and running daily backups.
