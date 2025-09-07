@@ -199,6 +199,10 @@
 - [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - Provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts.
 - [PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment Extension Kit. The purpose of PowerShell Deployment for MDT is to create a new deployment solution that provides the same level of automation as MDT but built on a more modern framework - PowerShell.
 
+## Scripting Tools
+
+- [Krayola](https://github.com/EliziumNet/Krayola) - Powershell module that provides the capability to write consistent and colourful PowerShell console applications. The key here is that it produces structured output according to user defined formats.
+
 ## Interactive Learning
 
 - [PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
