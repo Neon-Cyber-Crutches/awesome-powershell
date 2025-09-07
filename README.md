@@ -189,6 +189,7 @@
 
 ## Frameworks
 
+- [PowerShell App Deployment Toolkit](https://psappdeploytoolkit.com/) - Provides a set of functions to perform common application deployment tasks and to interact with the user during a deployment.
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerful server management framework.
 - [Testimo](https://github.com/EvotecIT/Testimo) - PowerShell module for running health checks for Active Directory against a bunch of different tests.
@@ -212,9 +213,9 @@
 
 - [PowerShellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. This module provide functions used with PowerShellGet v3 to provide compatibility with scripts expecting PowerShellGet v2.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
-- [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
+- [anypackage](https://github.com/anypackage/anypackage) - PowerShell unified package management interface.
 - [Scoop](https://scoop.sh) - A command-line installer for Windows.
-- [PowerShell App Deployment Toolkit](https://psappdeploytoolkit.com/) - Provides a set of functions to perform common application deployment tasks and to interact with the user during a deployment.
+- [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
 
 ## Parallel Processing
 
