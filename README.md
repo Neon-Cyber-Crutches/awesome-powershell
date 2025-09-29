@@ -1,7 +1,7 @@
 # Awesome PowerShell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- markdownlint-disable MD033 -->
-[<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" alt="Powershell logo" align="right" style="margin:10px 20px 0px 10px " width="100" height="100">](https://msdn.microsoft.com/en-us/powershell/)
+[<img src="https://github.com/Neon-Cyber-Crutches/awesome-powershell/raw/master/Assets/Images/Powershell_Mascot_Square_1024x1024.png" alt="Powershell Mascot" align="center" style="margin:20px 20px 0px 20px " width="100%" height="100%">](https://msdn.microsoft.com/en-us/powershell/)
 <!-- markdownlint-enable MD033 -->
 
 > \[!NOTE]
