@@ -63,7 +63,6 @@
 - [Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) - A guide to the process of developing, testing, and deploying scripts, and the art of toolmaking.
 - [The Monad Manifesto, Annotated - Jeffrey Snover](https://devops-collective-inc.gitbook.io/the-monad-manifesto-annotated/) - Design and theory behind the language from its creator.
 - [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide/read) - Language specific guide to Windows networking.
-- [Why PowerShell? - Warren Frame & Don Jones](https://ia600207.us.archive.org/9/items/WhyPowershell/WhyPowershell.pdf) - Use cases for the language.
 - [The Big Book of PowerShell Gotchas - Don Jones](https://devops-collective-inc.gitbook.io/the-big-book-of-powershell-gotchas/about-this-book) - Excellent guide to avoiding common pitfalls.
 - [The Big Book of PowerShell Error Handling - Dave Wyatt](https://leanpub.com/thebigbookofpowershellerrorhandling/read) - Great reference for error handling techniques.
 - [Secrets of PowerShell Remoting](https://devops-collective-inc.gitbook.io/secrets-of-powershell-remoting/) - On all things remoting. Workflow, fan-out, etc.
@@ -71,7 +70,6 @@
 - [PowerShell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) - Learn how to manage and automate your desktop and server environments.
 - [Practical Automation with PowerShell](https://www.manning.com/books/practical-automation-with-powershell) - Learn how to build, organize, and share useful automations with PowerShell.
 - [Learn dbatools in a Month of Lunches](https://www.manning.com/books/learn-dbatools-in-a-month-of-lunches) - Learn how to automate SQL Server with PowerShell and the awesome dbatools module.
-- [Tiny PowerShell Projects](https://www.manning.com/books/tiny-powershell-projects) - A hands-on tutorial for system administration with PowerShell.
 
 ## Communities
 
@@ -82,7 +80,6 @@
 
 ## Podcasts
 
-- [PowerScripting](https://powershell.org/category/podcast/) - Weekly show run by Jon Walz and Hal Rottenberg.
 - [The PowerShell News Podcast](https://powershellnews.podbean.com/) - This podcast is the latest news on PowerShell.
 - [The PowerShell Podcast](https://powershellpodcast.podbean.com/) - Weekly show that highlights what makes PowerShell so great, the community.
 
