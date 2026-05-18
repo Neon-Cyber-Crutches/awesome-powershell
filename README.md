@@ -5,8 +5,8 @@
 <!-- markdownlint-enable MD033 -->
 
 
->PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
->It includes a command-line shell and an associated scripting language.
+>  PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
+>  It includes a command-line shell and an associated scripting language.
 
 ## Contents
 
@@ -120,12 +120,12 @@
 
 ## Module Development Templates
 
-- [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+- [Plaster](https://github.com/PowerShell/Plaster) - Template-based file and project generator written in PowerShell.
 - [Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
-- [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+- [Catesta](https://github.com/techthoughts2/Catesta) - PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [PSStucco](https://github.com/jimbrig/PSStucco) - An opinionated Plaster template for high-quality PowerShell modules. Successor of [Stucco](https://github.com/devblackops/Stucco).
 - [PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - Module builder helper that helps build PowerShell modules "Evotec way".
-- [Mold](https://github.com/belibug/Mold) - Mold is PowerShell template & scaffolding engine that lets you effortlessly craft templates for any language, on any platform.
+- [Mold](https://github.com/belibug/Mold) - PowerShell template & scaffolding engine that lets you effortlessly craft templates for any language, on any platform.
 - [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development. Templating engine that allows you to swiftly create new projects.
 - [Module.Template](https://github.com/ili101/Module.Template) - PowerShell Module Template with GitHub, PowerShellGallery and AppVeyor.
 
@@ -160,7 +160,7 @@
 - [ImportExcel](https://github.com/dfinke/ImportExcel) - Module to import/export Excel spreadsheets, without Excel.
 - [powershell-yaml](https://github.com/cloudbase/powershell-yaml) - PowerShell CmdLets for YAML format manipulation.
 - [Hcl2PS](https://github.com/MertSenel/Hcl2PS) - PowerShell Module to Wrap Hcl2Json CLI tool for Easy distribution of PowerShell cmdlets to Parse HCL Files.
-- [PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is a PowerShell module allowing you to create HTML easily.
+- [PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PowerShell module allowing you to create HTML easily.
 - [PSWritePDF](https://github.com/EvotecIT/PSWritePDF) - Module to create, edit, split, merge PDF files on Windows / Linux and macOS.
 - [PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - Module to create Microsoft Word documents without Microsoft Word installed.
 - [PsIni](https://github.com/lipkau/PsIni) - Module for working with INI files in PowerShell using hashtables.
@@ -179,7 +179,7 @@
 - [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise) - Official PowerShell development environment included with Microsoft Windows.
 - [ISE Steroids](https://powershell.one/isesteroids/quickstart/overview) - Paid add-on (with a 10 days trial period) for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - All in one IDE.
-- [SublimeText package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
+- [Sublime Text package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
 - [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
 
 ## Frameworks
@@ -204,7 +204,7 @@
 - [PSAtlas](https://github.com/bateskevin/PSAtlas) - An interactive PowerShell learning framework.
 - [Code golf](https://code.golf/tutorial#powershell) - Solve puzzles with PowerShell in as few characters as possible.
 - [Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell.
-- [Under the Wire](https://underthewire.tech/) - Under the Wire trains experienced, developing, and novice Information Technologists to use Windows PowerShell in a variety of situations through innovative and fun wargames.
+- [Under the Wire](https://underthewire.tech/) - PowerShell wargames that trains experienced, developing, and novice Information Technologists to use Windows PowerShell in a variety of situations.
 
 ## Logging
 
@@ -212,7 +212,7 @@
 
 ## Package Managers
 
-- [PowerShellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. This module provide functions used with PowerShellGet v3 to provide compatibility with scripts expecting PowerShellGet v2.
+- [PowerShellGet](https://github.com/powershell/powershellget) - Package Manager for PowerShell. This module provide functions used with PowerShellGet v3 to provide compatibility with scripts expecting PowerShellGet v2.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 - [anypackage](https://github.com/anypackage/anypackage) - PowerShell unified package management interface.
 - [Scoop](https://scoop.sh) - A command-line installer for Windows.
@@ -259,13 +259,13 @@
 
 - [AutoSPInstaller](https://autospinstaller.com/) - Automated SharePoint 2010-2019 installation script.
 - [SharePoint-PowerShell](https://learn.microsoft.com/en-us/powershell/sharepoint/) - Learn about using PowerShell cmdlets for SharePoint in Microsoft 365 and SharePoint Server.
-- [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
+- [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - Helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
 - [SharePoint2019Commands](https://github.com/sassdawe/SharePoint2019Commands) - PowerShell module to help you auto-load all SharePoint 2019 cmdlets.
 
 ## SQL Server
 
 - [dbatools](https://dbatools.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
-- [SimplySql](https://github.com/mithrandyr/SimplySql) - SimplySql is a module that provides an intuitive set of cmdlets for talking to databases that abstracts the vendor specifics. The basic pattern is to connect to a database, execute one or more sql.
+- [SimplySql](https://github.com/mithrandyr/SimplySql) - PowerShell module that provides an intuitive set of cmdlets for talking to databases that abstracts the vendor specifics. The basic pattern is to connect to a database, execute one or more sql.
 
 ## Testing
 
@@ -312,7 +312,7 @@
 ## Webserver
 
 - [Flancy](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
-- [Pode](https://github.com/Badgerati/Pode) - Pode is a Cross-Platform PowerShell framework for creating web servers to host REST APIs, Web Sites, and TCP/SMTP Servers.
+- [Pode](https://github.com/Badgerati/Pode) - Cross-Platform PowerShell framework for creating web servers to host REST APIs, Web Sites, and TCP/SMTP Servers.
 - [Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell.
 - [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
 - [PowerShell Universal](https://www.powershelluniversal.com/) - Cross-platform module for developing websites and REST APIs.
