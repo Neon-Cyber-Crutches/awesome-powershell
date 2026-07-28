@@ -1,11 +1,13 @@
 # Awesome PowerShell [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<!-- markdownlint-disable MD033 -->
-[<img src="https://raw.githubusercontent.com/Neon-Cyber-Crutches/awesome-powershell/refs/heads/main/Assets/Images/Powershell_Mascot_Square_1024x1024.png" alt="PowerShell Mascot" align="left" style="margin:20px 20px 0px 20px " width="200" height="200">](https://learn.microsoft.com/en-us/powershell/)
-<!-- markdownlint-enable MD033 -->
+<p align="center">
+    <a href="https://learn.microsoft.com/en-us/powershell/">
+        <img src="https://raw.githubusercontent.com/Neon-Cyber-Crutches/awesome-powershell/refs/heads/main/Assets/Images/Powershell_Mascot_Square_1024x1024.png" alt="PowerShell Mascot" width="500">
+    </a>
+</p>
 
->  PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
->  It includes a command-line shell and an associated scripting language.
+> PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
+> It includes a command-line shell and an associated scripting language.
 
 ## Contents
 
