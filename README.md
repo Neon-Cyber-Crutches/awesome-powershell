@@ -4,7 +4,6 @@
 [<img src="https://raw.githubusercontent.com/Neon-Cyber-Crutches/awesome-powershell/refs/heads/main/Assets/Images/Powershell_Mascot_Square_1024x1024.png" alt="PowerShell Mascot" align="left" style="margin:20px 20px 0px 20px " width="200" height="200">](https://learn.microsoft.com/en-us/powershell/)
 <!-- markdownlint-enable MD033 -->
 
-
 >  PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
 >  It includes a command-line shell and an associated scripting language.
 
@@ -135,7 +134,7 @@
 - [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
 - [PoshSvn](https://www.poshsvn.com/) - Apache Subversion client for PowerShell.
 - [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
-- [PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for common cli tools like git, npm and more.
+- [PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for common cli tools like Git, npm and more.
 - [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 - [Zlocation](https://github.com/vors/ZLocation) - implementation of [z.sh](https://github.com/rupa/z) for PowerShell. Similar to Jump-Location.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
@@ -272,7 +271,7 @@
 - [Pester](https://github.com/pester/Pester) - PowerShell TDD style testing framework.
 - [Format-Pester](https://github.com/equelin/format-pester) - PowerShell module for documenting Pester's results - exports Pester results to HTML, Word, text files using PScribo.
 - [Selenium](https://github.com/adamdriscoll/selenium-powershell) - PowerShell module to run a Selenium WebDriver.
-- [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - PSScriptAnalyzer provides script analysis and checks for potential code defects in the scripts by applying a group of built-in or customized rules on the scripts being analyzed.
+- [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Static code checker for PowerShell modules and scripts.
 
 ## Themes
 
