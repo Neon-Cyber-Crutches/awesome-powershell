@@ -178,7 +178,6 @@
 - [PowerShell for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Provides IntelliSense, code navigations, script analysis, script debugging, and more for the [Visual Studio Code](https://code.visualstudio.com) editor.
 - [PowerShell Pro Tools](https://github.com/ironmansoftware/powershell-pro-tools) - Powerful tools for PowerShell Developers. Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio and Visual Studio Code.
 - [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise) - Official PowerShell development environment included with Microsoft Windows.
-- [ISE Steroids](https://powershell.one/isesteroids/quickstart/overview) - Paid add-on (with a 10 days trial period) for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - All in one IDE.
 - [Sublime Text package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
 - [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
