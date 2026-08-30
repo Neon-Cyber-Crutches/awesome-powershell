@@ -23,6 +23,7 @@
 - [Commandline Productivity](#commandline-productivity)
 - [Data](#data)
 - [Documentation Helper](#documentation-helper)
+- [Desktop Customization](#desktop-customization)
 - [Editors and IDEs](#editors-and-ides)
 - [Frameworks](#frameworks)
 - [Scripting Tools](#scripting-tools)
@@ -171,6 +172,10 @@
 - [Microsoft.PowerShell.PlatyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown. PlatyPS is the tool that Microsoft uses to create the PowerShell content you get from Get-Help and build the content published as PowerShell documentation on Microsoft Learn.
 - [Invoke-CreateModuleHelpFile](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands.
 - [PScribo](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (domain specific language).
+
+## Desktop Customization
+
+- [PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
 
 ## Editors and IDEs
 
